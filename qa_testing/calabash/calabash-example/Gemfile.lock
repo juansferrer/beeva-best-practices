@@ -41,7 +41,7 @@ GEM
     diff-lcs (1.2.5)
     edn (1.1.1)
     escape (0.0.4)
-    geocoder (1.4.1)
+    geocoder (1.6.3)
     gherkin (4.0.0)
     httparty (0.14.0)
       multi_xml (>= 0.5.2)
